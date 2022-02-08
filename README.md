@@ -4,6 +4,7 @@
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Eu estou aprendendo JavaScript
 - 📫 Contate-me no e-mail: nathaliasantospbg@hotmail.com
+- Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/nathalia-santos">

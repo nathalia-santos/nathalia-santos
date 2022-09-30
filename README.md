@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Eu estou aprendendo JavaScript
+- 🌱 Eu estou aprendendo Java
 - 📫 Contate-me no e-mail: nathaliasantospbg@hotmail.com
 - Pronomes: ela/dela
 

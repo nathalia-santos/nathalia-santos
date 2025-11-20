@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Nathalia 👋
 
 
-- 🔭 Sou estudante de Ciências da Computação
-- 🌱 Eu estou me desenvolvendo em Análise de Dados com python e aprendendo ferramentas de automação
+- 🔭 Sou analista de automação
+- 🌱 Eu estou me desenvolvendo em Engenharia de Dados e Automação
 - 📫 Contate-me no e-mail: nathaliasantospbg@hotmail.com
 - Pronomes: ela/dela
 

@@ -7,6 +7,7 @@
 🔹 Pronomes: ela/dela  
 
 ---
+
 ### ⚙️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
@@ -19,11 +20,11 @@
 <img align="center" alt="Azure" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 
 </div>
+
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
-</p>
+
+![Pacman animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Nathalia 👋
 
 
-- 🔭 Sou analista de automação
+- 🔭 Sou analista de dados e automação
 - 🌱 Eu estou me desenvolvendo em Engenharia de Dados e Automação
 - 📫 Contate-me no e-mail: nathaliasantospbg@hotmail.com
 - Pronomes: ela/dela

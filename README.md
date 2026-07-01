@@ -1,6 +1,6 @@
 ## 👩‍💻 Olá! Eu sou a Nathalia
 
-🔹 Analista de Dados & Automação  
+🔹 Engenharia Analítica & Automação  
 🔹 Focada em Engenharia de Dados, ETL e automações corporativas  
 🔹 Apaixonada por transformar dados em eficiência e insights  
 🔹 📫 Contato: nathaliasantospbg@hotmail.com  
